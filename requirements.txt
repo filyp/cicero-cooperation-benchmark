@@ -1,3 +1,6 @@
 openai==0.25.0
 tqdm==4.63.0
 cachier==2.0.0
+numpy==1.23.3
+scipy==1.9.1
+matplotlib==3.5.1
