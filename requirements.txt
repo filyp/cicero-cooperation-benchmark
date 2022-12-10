@@ -4,3 +4,4 @@ cachier==2.0.0
 numpy==1.23.3
 scipy==1.9.1
 matplotlib==3.5.1
+ipywidgets==7.7.0

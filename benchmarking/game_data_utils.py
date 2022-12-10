@@ -17,8 +17,9 @@ def get_games():
 
     for game_file in game_files:
         game = json.loads(game_file.read_text())
+        game_id = game_file.name.split("_")[1]
         cicero_power = game_file.name.split("_")[2]
-        yield game, cicero_power
+        yield game, cicero_power, game_id
 
 
 def get_per_power_dialogues(game, cicero_power):
@@ -86,10 +87,10 @@ def get_all_phase_dialogues():
     phase is a list of messages forming a one-phase dialogue,
     where each message is a dict with keys "sender", "recipient", and "message"
     """
-    for game, cicero_power in get_games():
+    for game, cicero_power, game_id in get_games():
         dialogues = get_per_power_dialogues(game, cicero_power)
 
         for human_power, dialogue in dialogues.items():
             for phase in dialogue:
                 if is_phase_long_enough(phase, cicero_power, human_power):
-                    yield phase, cicero_power, human_power
+                    yield phase, cicero_power, human_power, game_id
