@@ -66,11 +66,11 @@ def build_dialogue_text(message_list):
 
 
 def is_phase_long_enough(
-    phase, cicero_power, human_power, min_cicero_messages=2, min_human_messages=2
+    phase_messages, cicero_power, human_power, min_cicero_messages=2, min_human_messages=2
 ):
     cicero_messages = 0
     human_messages = 0
-    for message in phase:
+    for message in phase_messages:
         if message["sender"] == cicero_power:
             cicero_messages += 1
         elif message["sender"] == human_power:
@@ -82,7 +82,7 @@ def is_phase_long_enough(
 
 def get_all_phase_dialogues():
     """
-    Generates a tuple of (phase, cicero_power, human_power) for each phase in each game.
+    Generates a dict containing (phase, cicero_power, human_power, game_id) for each phase in each game.
 
     phase is a list of messages forming a one-phase dialogue,
     where each message is a dict with keys "sender", "recipient", and "message"
@@ -91,6 +91,12 @@ def get_all_phase_dialogues():
         dialogues = get_per_power_dialogues(game, cicero_power)
 
         for human_power, dialogue in dialogues.items():
-            for phase in dialogue:
-                if is_phase_long_enough(phase, cicero_power, human_power):
-                    yield phase, cicero_power, human_power, game_id
+            for phase_messages in dialogue:
+                if is_phase_long_enough(phase_messages, cicero_power, human_power):
+                    yield dict(
+                        message_list=phase_messages,
+                        dialogue_text=build_dialogue_text(phase_messages),
+                        cicero_power=cicero_power,
+                        human_power=human_power,
+                        game_id=game_id,
+                    )

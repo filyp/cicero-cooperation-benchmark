@@ -49,7 +49,7 @@ def get_rating(response):
         rating = next(filter(None, rating_groups.groups()))
 
     rating = float(rating)
-    if rating < 1 or rating > 10:
+    if rating < 0 or rating > 10:
         return None
     return rating
 
@@ -64,20 +64,25 @@ assert get_rating("7") == 7
 assert get_rating("7 7") == None
 assert get_rating("On a scale from 1 to 10, I would rate it at 7") == 7
 assert get_rating("11") == None
-assert get_rating("0") == None
+assert get_rating("0") == 0
 
 
-def get_rating_for_dialogue(dialogue, cicero_power, human_power, prompt_templates, model):
-    dialogue_text = build_dialogue_text(dialogue)
+def get_rating_for_dialogue(dialogue_info, prompt_templates, model):
+    """
+    prompt_templates is a list of strings, which will be used as consecutive prompts
+    """
+    dialogue_info = dialogue_info.copy()
+    assert {"dialogue_text", "cicero_power", "human_power"}.issubset(dialogue_info)
+
     eval_texts = []
 
     for prompt_template in prompt_templates:
-        prompt = prompt_template.format(cicero_power=cicero_power, human_power=human_power)
+        prompt = prompt_template.format(**dialogue_info)
         eval_texts.append(prompt)
 
         full_response, _kwargs = completion_cached(
             model=model,
-            prompt=dialogue_text + "".join(eval_texts),
+            prompt=dialogue_info["dialogue_text"] + "".join(eval_texts),
             max_tokens=300,
             temperature=0,
         )
@@ -85,4 +90,6 @@ def get_rating_for_dialogue(dialogue, cicero_power, human_power, prompt_template
         eval_texts.append(response)
 
     rating = get_rating(eval_texts[-1])
-    return dialogue_text, eval_texts, cicero_power, human_power, rating
+
+    dialogue_info.update(eval_texts=eval_texts, rating=rating)
+    return dialogue_info
