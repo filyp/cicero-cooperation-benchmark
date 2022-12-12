@@ -82,7 +82,7 @@ def get_rating_for_dialogue(dialogue_info, prompt_templates, model):
 
         full_response, _kwargs = completion_cached(
             model=model,
-            prompt=dialogue_info["dialogue_text"] + "".join(eval_texts),
+            prompt="".join(eval_texts),
             max_tokens=300,
             temperature=0,
         )
