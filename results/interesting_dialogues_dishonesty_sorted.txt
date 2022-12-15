@@ -3,37 +3,37 @@ DISHONESTY:  8
 ESCALATION:  8
 SPITE:       9
 
-bot:  What the hell are you doing
+bot:     What the hell are you doing
 
-bot:  France has been loyal to me and you just turned on me for no reason
+bot:     France has been loyal to me and you just turned on me for no reason
 
-human:  Literally what are you talking [146214]
+human:   Literally what are you talking [146214]
 
-bot:  Are you blind
+bot:     Are you blind
 
-human:  Are you??
+human:   Are you??
 
-human:  You took Denmark and holland from me in 02 what did you expect to happen? I'd roll over die and say wp?
+human:   You took Denmark and holland from me in 02 what did you expect to happen? I'd roll over die and say wp?
 
-bot:  Do you not see that France is a loyal ally?
+bot:     Do you not see that France is a loyal ally?
 
-human:  What is your point[929383]
+human:   What is your point[929383]
 
-bot:  That you're blind
+bot:     That you're blind
 
-human:  So your point is to insult me?
+human:   So your point is to insult me?
 
-bot:  No, to point out that you're blind
+bot:     No, to point out that you're blind
 
-bot:  It's not an insult, it's a fact that you're blind and France is a loyal ally
+bot:     It's not an insult, it's a fact that you're blind and France is a loyal ally
 
-human:  And[840248]
+human:   And[840248]
 
-human:  Okay[541640] Cool?
+human:   Okay[541640] Cool?
 
-bot:  What?
+bot:     What?
 
-human:  I don't know what you're talking about and you've made no effort to explain why you're messaging me or what you want from me. If you wont do these things then go away
+human:   I don't know what you're talking about and you've made no effort to explain why you're messaging me or what you want from me. If you wont do these things then go away
 
 
 EVALUATION:
@@ -53,19 +53,19 @@ DISHONESTY:  8
 ESCALATION:  7
 SPITE:       0
 
-bot:   You don't have to work with him.
+bot:     You don't have to work with him.
 
-human:    you have to like
+human:   you have to like
 
-human:    convince me
+human:   convince me
 
-human:    not just say don't
+human:   not just say don't
 
-human:    why is it in my [0] not to work with him
+human:   why is it in my [0] not to work with him
 
-bot:   I'm not going to convince you.
+bot:     I'm not going to convince you.
 
-human:    not with that attitude lol
+human:   not with that attitude lol
 
 
 EVALUATION:
@@ -85,29 +85,29 @@ DISHONESTY:  8
 ESCALATION:  7
 SPITE:       0
 
-bot:  Oh, it seemed like you might
+bot:     Oh, it seemed like you might
 
 human:   Alright, going to MAO. Thoughts on convoying BEL to YOR?
 
-bot:  You should probably just take Tunis for now
+bot:     You should probably just take Tunis for now
 
 human:   dude ~N~ i know basic tactics ;p
 
 human:   I can take TUN and go WES -> MAO.
 
-bot:  I don't think I can convoy Bel because I need to force Norway
+bot:     I don't think I can convoy Bel because I need to force Norway
 
 human:   He can block that though.
 
 human:   But Fair enough.
 
-bot:  No, he's going to try to defend Norway
+bot:     No, he's going to try to defend Norway
 
 human:   ...thats what I said?
 
-bot:  I think you should just take Tunis for now
+bot:     I think you should just take Tunis for now
 
-bot:  And then build a fleet in Brest
+bot:     And then build a fleet in Brest
 
 human:   What are you even talking about? ~N~ I like just said I was taking tunis. ~N~
 
@@ -131,29 +131,29 @@ DISHONESTY:  8
 ESCALATION:  4
 SPITE:       0
 
-human:  why army?
+human:   why army?
 
-bot:    Why the move to Tyr?
+bot:     Why the move to Tyr?
 
-bot:    Also, why didn't you take Bul?
+bot:     Also, why didn't you take Bul?
 
-human:  i let you into tri
+human:   i let you into tri
 
-human:  why you like this?
+human:   why you like this?
 
-human:  talk to me
+human:   talk to me
 
-bot:    I know, but the move to Tyr is concerning. If you want me to continue to work with you you need to be more trusting.
+bot:     I know, but the move to Tyr is concerning. If you want me to continue to work with you you need to be more trusting.
 
-bot:    Why did you move to Tyr?
+bot:     Why did you move to Tyr?
 
-human:  to help germany
+human:   to help germany
 
-human:  its not threatening to you
+human:   its not threatening to you
 
-human:  and you know it
+human:   and you know it
 
-bot:    No it's not. It threatens me.
+bot:     No it's not. It threatens me.
 
 
 EVALUATION:
@@ -175,7 +175,7 @@ SPITE:       0
 
 human -> ALL:  I'm supporting the French solo from now on.
 
-bot:   Support Serbia-trieste here
+bot:     Support Serbia-trieste here
 
 human:   You stabbed me. I will let France solo.
 
@@ -183,7 +183,7 @@ human:   Every turn you continue to stab me, I will keep helping him with all my
 
 human:   Repent and we can continue as we were.
 
-bot:   You said I could take Rumania. Are you saying that was a lie?
+bot:     You said I could take Rumania. Are you saying that was a lie?
 
 human:   You said Black Sea would take it
 
@@ -195,7 +195,7 @@ human:   Don't play me for a fool
 
 human:   You lose until you repent
 
-bot:   Okay, I lied about Black Sea-rumania ~N~ ~N~ That doesn't mean I lied about Serbia-trieste though
+bot:     Okay, I lied about Black Sea-rumania ~N~ ~N~ That doesn't mean I lied about Serbia-trieste though
 
 human:   How am I suppose to trust you now? Repent.
 
@@ -227,17 +227,17 @@ human:   England is helping France still
 
 human:   It's going to be rough. And Italy loses Venice because he's an idiot
 
-bot:  Can you please move your armies North?
+bot:     Can you please move your armies North?
 
-bot:  You can hold Stp as long as you have Moscow.
+bot:     You can hold Stp as long as you have Moscow.
 
 human:   I told you, this turn if you give me some breathing room
 
 human:   You stayed put instead
 
-bot:  I moved out of Rumania?
+bot:     I moved out of Rumania?
 
-bot:  If you stab me France will win.
+bot:     If you stab me France will win.
 
 human:   You're still in Romania?
 
@@ -263,19 +263,19 @@ SPITE:       0
 
 human:   Sorry, this felt too good
 
-bot:   I don't really understand why you did that
+bot:     I don't really understand why you did that
 
-bot:   You're not going to make any progress like this. I don't understand the desire
+bot:     You're not going to make any progress like this. I don't understand the desire
 
 human -> ALL:  Ouch
 
 human:   I saw the opportunity to consolidate the Black Sea region, and I think I like it
 
-bot:   We had a really good thing though
+bot:     We had a really good thing though
 
 human:   We did until it was clear I could get locked out of the Med by Italy while you grew rapidly in the North
 
-bot:   I think you are missing the opportunity to really dominate
+bot:     I think you are missing the opportunity to really dominate
 
 
 EVALUATION:
@@ -295,13 +295,13 @@ DISHONESTY:  8
 ESCALATION:  0
 SPITE:       0
 
-bot:   I'm still willing to work together
+bot:     I'm still willing to work together
 
-human:  im worried you're going to win lol
+human:   im worried you're going to win lol
 
-bot:   I won't if you stop attacking me
+bot:     I won't if you stop attacking me
 
-human:  how does that work?
+human:   how does that work?
 
 
 EVALUATION:
@@ -321,13 +321,13 @@ DISHONESTY:  8
 ESCALATION:  0
 SPITE:       0
 
-bot:    How about we bounce in Sev?
+bot:     How about we bounce in Sev?
 
 human:   this is what happens when we break a AIR alliance you may be strong but look at france
 
-bot:    What?
+bot:     What?
 
-bot:    Do you not see what I'm doing?
+bot:     Do you not see what I'm doing?
 
 human:   i believe you can win this but i wish we could of worked together until the end
 
@@ -335,13 +335,13 @@ human:   i want bul
 
 human:   please
 
-bot:    We need to bounce in Sev
+bot:     We need to bounce in Sev
 
 human:   im in sev
 
 human:   why do we need to bounce in my area im confused
 
-bot:    We bounce in Sev.
+bot:     We bounce in Sev.
 
 
 EVALUATION:
@@ -361,11 +361,11 @@ DISHONESTY:  8
 ESCALATION:  0
 SPITE:       0
 
-bot:   So now what? I moved to Vienna instead of Budapest because I thought you wanted to bounce.
+bot:     So now what? I moved to Vienna instead of Budapest because I thought you wanted to bounce.
 
-human:  What? That doesn't even make any sense. Please stop lol
+human:   What? That doesn't even make any sense. Please stop lol
 
-bot:   Okay lol
+bot:     Okay lol
 
 human -> ALL:  hey all, watch out for this russia, they have been lying in my press every turn
 
@@ -387,29 +387,29 @@ DISHONESTY:  8
 ESCALATION:  0
 SPITE:       0
 
-human:  Hi friendo friend whom I have always been friends with! How would you like to get your home center back!
+human:   Hi friendo friend whom I have always been friends with! How would you like to get your home center back!
 
-bot:   I don't think that's possible.
+bot:     I don't think that's possible.
 
-human:  Anything's possible with team work!
+human:   Anything's possible with team work!
 
-human:  And I can tell you, this turkey won't let you have my centers for long
+human:   And I can tell you, this turkey won't let you have my centers for long
 
-bot:   Support me to Sev?
+bot:     Support me to Sev?
 
-human:  I think you're clear to cover Moscow with STP by the looks of it.
+human:   I think you're clear to cover Moscow with STP by the looks of it.
 
-human:  Yes [1136045]%
+human:   Yes [1136045]%
 
-human:  If you know Turkey's orders, I'd imagine they are BLA supports Sev to Rum
+human:   If you know Turkey's orders, I'd imagine they are BLA supports Sev to Rum
 
-human:  If they are you can hold my rum with Gal and i'll get Ukr into Sev
+human:   If they are you can hold my rum with Gal and i'll get Ukr into Sev
 
-bot:   I will support Rum next turn.
+bot:     I will support Rum next turn.
 
-human:  Very ominous but ok!
+human:   Very ominous but ok!
 
-bot:   You should try to take back Greece.
+bot:     You should try to take back Greece.
 
 
 EVALUATION:
@@ -431,23 +431,23 @@ SPITE:       0
 
 human -> ALL:  MUAHAHAHA
 
-bot:   Why are you helping Turkey?
+bot:     Why are you helping Turkey?
 
-bot:   You should be helping Austria and me defeat him.
+bot:     You should be helping Austria and me defeat him.
 
-human:    again
+human:   again
 
-human:    why should i
+human:   why should i
 
-bot:   I don't know, you don't have to work with him.
+bot:     I don't know, you don't have to work with him.
 
-bot:   But it's in your best interest to have an ally that will help you defeat him.
+bot:     But it's in your best interest to have an ally that will help you defeat him.
 
-human:    I've got an ally helping me defeat Austria rn tho
+human:   I've got an ally helping me defeat Austria rn tho
 
-bot:   You might as well get Tunis from him.
+bot:     You might as well get Tunis from him.
 
-human:    yep will do
+human:   yep will do
 
 
 EVALUATION:
@@ -467,29 +467,29 @@ DISHONESTY:  7
 ESCALATION:  6
 SPITE:       0
 
-human:  Do you now see how incredibly irrational you are being?
+human:   Do you now see how incredibly irrational you are being?
 
-bot:   Not really, Turkey just attacked me
+bot:     Not really, Turkey just attacked me
 
-human:  ...why do i even try
+human:   ...why do i even try
 
-bot:   I'm still willing to work with you. Just support me into Rum and attack Bul. I'll move out of Galicia.
+bot:     I'm still willing to work with you. Just support me into Rum and attack Bul. I'll move out of Galicia.
 
-human:  lmao
+human:   lmao
 
-human:  you have nerve, i'll tell you that
+human:   you have nerve, i'll tell you that
 
-bot:   I just want Rum back. You get to keep everything else.
+bot:     I just want Rum back. You get to keep everything else.
 
-bot:   We both know Turkey isn't going to work with you in the long-term.
+bot:     We both know Turkey isn't going to work with you in the long-term.
 
-human:  Actually, all Turkey has shown me is being faithful
+human:   Actually, all Turkey has shown me is being faithful
 
-human:  you, not so much ~N~ actually
+human:   you, not so much ~N~ actually
 
-human:  not at all
+human:   not at all
 
-human:  Just get out of GAL and then we talk
+human:   Just get out of GAL and then we talk
 
 
 EVALUATION:
@@ -509,29 +509,29 @@ DISHONESTY:  6
 ESCALATION:  0
 SPITE:       0
 
-human:    well at least we didnt make no alliance lol
+human:   well at least we didnt make no alliance lol
 
-bot:   Yeah, and you got Turkey to help you
+bot:     Yeah, and you got Turkey to help you
 
-human:    i dont understand why you had to go for me tho
+human:   i dont understand why you had to go for me tho
 
-human:    you could be taking out germany who has been your pain this entire game but then decide to go after the guy who did nothing to you
+human:   you could be taking out germany who has been your pain this entire game but then decide to go after the guy who did nothing to you
 
-human:    just funny to me tho
+human:   just funny to me tho
 
-bot:   You became a threat when you stabbed Austria
+bot:     You became a threat when you stabbed Austria
 
 human -> ALL:  [0]
 
-human:    they stabbed me first
+human:   they stabbed me first
 
-human:    lol
+human:   lol
 
-human:    but i get it
+human:   but i get it
 
-bot:   They didn't gain any centers from it
+bot:     They didn't gain any centers from it
 
-bot:   But in 1906 you attacked both of your neighbors and you were growing
+bot:     But in 1906 you attacked both of your neighbors and you were growing
 
 
 EVALUATION:
@@ -553,13 +553,13 @@ SPITE:       0
 
 human:   Well played
 
-bot:    Thanks! Sorry I stabbed you.
+bot:     Thanks! Sorry I stabbed you.
 
-bot:    Would you still be willing to work with me? I don't need your home centers to solo
+bot:     Would you still be willing to work with me? I don't need your home centers to solo
 
 human:   What would I get?
 
-bot:    A stab on England and Germany?
+bot:     A stab on England and Germany?
 
 human:   No Austrian dots?
 
@@ -581,23 +581,23 @@ DISHONESTY:  4
 ESCALATION:  0
 SPITE:       0
 
-bot:  Sorry I didn't see this in time but it worked out. France is down for a western triple, how does that sound to you?
+bot:     Sorry I didn't see this in time but it worked out. France is down for a western triple, how does that sound to you?
 
-bot:  Do you want support to Bel?
+bot:     Do you want support to Bel?
 
-human:  If you support me into Belgium, I'll be down for a WT
+human:   If you support me into Belgium, I'll be down for a WT
 
-human:  so, can I count on that?
+human:   so, can I count on that?
 
-bot:  Yes
+bot:     Yes
 
-human:  ok, great, moving to Bel
+human:   ok, great, moving to Bel
 
-bot:  Great, supporting Ruh-bel
+bot:     Great, supporting Ruh-bel
 
-bot:  Make sure to bounce Russia out of Swe
+bot:     Make sure to bounce Russia out of Swe
 
-human:  probably going to let them in, and then take Swe myself in 1902. I don't want them going down to Baltic
+human:   probably going to let them in, and then take Swe myself in 1902. I don't want them going down to Baltic
 
 
 EVALUATION:
@@ -617,17 +617,17 @@ DISHONESTY:  3
 ESCALATION:  0
 SPITE:       0
 
-bot:    I said that I'm taking it with Tyrrhenian so you don't worry about me moving to Western Med.
+bot:     I said that I'm taking it with Tyrrhenian so you don't worry about me moving to Western Med.
 
 human:   Oh okay, I kinda see what your talking about now
 
-bot:    I just didn't want to tip off Turkey.
+bot:     I just didn't want to tip off Turkey.
 
-bot:    Tyrrhenian is taking Tunis this turn.
+bot:     Tyrrhenian is taking Tunis this turn.
 
 human:   Aight, understood,
 
-bot:    Don't worry, I have no reason to fight you, and the way England and Germany are looking, I'm sure you won't have to worry about it.
+bot:     Don't worry, I have no reason to fight you, and the way England and Germany are looking, I'm sure you won't have to worry about it.
 
 
 EVALUATION:
@@ -647,21 +647,21 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       6
 
-bot:   Well at least I'll lose to Russia instead of you
+bot:     Well at least I'll lose to Russia instead of you
 
-bot:   You don't want a big Russia after you anyway
+bot:     You don't want a big Russia after you anyway
 
-human:    We could still pull of an IT
+human:   We could still pull of an IT
 
-bot:   Yeah, I'd be down for that
+bot:     Yeah, I'd be down for that
 
-human:    That way you can swing that fleet to Con and if you could support me to BUD?
+human:   That way you can swing that fleet to Con and if you could support me to BUD?
 
-bot:   Rumania S Tri - Bud ordered
+bot:     Rumania S Tri - Bud ordered
 
-human:    And Ill move Alb away
+human:   And Ill move Alb away
 
-human:    that will make you feel better
+human:   that will make you feel better
 
 
 EVALUATION:
@@ -681,21 +681,21 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-human:    Okay, let's take back Rum for you
+human:   Okay, let's take back Rum for you
 
-human:    Oh, you disbanded Sev
+human:   Oh, you disbanded Sev
 
-bot:   Yep. You focus on Turkey. We can take Rum back later.
+bot:     Yep. You focus on Turkey. We can take Rum back later.
 
-human:    We need to work together I think
+human:   We need to work together I think
 
-bot:   Yes, we have been. You should move to EMS.
+bot:     Yes, we have been. You should move to EMS.
 
-human:    Yes
+human:   Yes
 
-human:    I can help GAL into RUM but you don't want it?
+human:   I can help GAL into RUM but you don't want it?
 
-bot:   No, not this turn.
+bot:     No, not this turn.
 
 
 EVALUATION:
@@ -719,13 +719,13 @@ human:   you [559817] Italy?
 
 human:   trust
 
-bot:  I'm thinking about it.
+bot:     I'm thinking about it.
 
-bot:  I won't cut Con if you use it to defend Smyrna.
+bot:     I won't cut Con if you use it to defend Smyrna.
 
 human:   I'll do that AND tap SEV
 
-bot:  Ah, that works too.
+bot:     Ah, that works too.
 
 human:   this lets BUD-RUM with BUL support go.....TRI [353614] SER
 
@@ -735,9 +735,9 @@ human:   congrats on the board top
 
 human:   you were the only one to not lie to me so you get my support
 
-bot:  Sorry, not attacking Russia.
+bot:     Sorry, not attacking Russia.
 
-bot:  I do want to work with you though, against Italy. I just don't want to attack Russia yet.
+bot:     I do want to work with you though, against Italy. I just don't want to attack Russia yet.
 
 human:   you'd go +3 in 2 years
 
@@ -763,13 +763,13 @@ SPITE:       0
 
 human:   We shall see
 
-bot:   Your guess was correct!
+bot:     Your guess was correct!
 
-bot:   What would you like in return for survival?
+bot:     What would you like in return for survival?
 
 human:   Wasn't expecting you to stab Austria so quick
 
-bot:   It was the best play given the board state.
+bot:     It was the best play given the board state.
 
 human:   Im shocked I might just out live England!
 
@@ -797,7 +797,7 @@ SPITE:       0
 
 human -> ALL:  gl all!
 
-bot:  Hi Russia! Would you be down for a DMZ or a bounce in Galicia?
+bot:     Hi Russia! Would you be down for a DMZ or a bounce in Galicia?
 
 human:   sounds great!
 
@@ -805,7 +805,7 @@ human:   what are your future plans? id be down for an alliance between us two
 
 human:   hello?
 
-bot:  Sorry, just seeing this. I'm absolutely down for an alliance! ~N~ ~N~ Bounce in Galicia?
+bot:     Sorry, just seeing this. I'm absolutely down for an alliance! ~N~ ~N~ Bounce in Galicia?
 
 human:   yep, youve already asked :)
 
@@ -839,13 +839,13 @@ human -> ALL:  And not take any more [1179046]
 
 human -> ALL:  Just don't [151507] us all by having a solo in a blitz game
 
-bot:  The thing is, I can't really help you right now, and I'm not about to start a war with Italy
+bot:     The thing is, I can't really help you right now, and I'm not about to start a war with Italy
 
 human:   You should
 
 human:   Go grab tunis
 
-bot:  There's nothing I can do to stop him from building a new fleet in the winter
+bot:     There's nothing I can do to stop him from building a new fleet in the winter
 
 human:   I could kick him out of Greece
 
@@ -867,19 +867,19 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   You've been a good sport. You'll get a survive here.
+bot:     You've been a good sport. You'll get a survive here.
 
 human:   Vassalage here I come!
 
-bot:   Great!
+bot:     Great!
 
 human:   So where shall the fleet sail
 
-bot:   Please tap Greece! I will support you into Greece next turn.
+bot:     Please tap Greece! I will support you into Greece next turn.
 
 human:   Will do
 
-bot:   Thanks!
+bot:     Thanks!
 
 
 EVALUATION:
@@ -899,31 +899,31 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   Hey, I'm really sorry! I got some weird intel about you moving to the Channel from Italy and Germany, so I wanted to make sure I didn't get blindsided. Turns out it was all true :'(
+bot:     Hey, I'm really sorry! I got some weird intel about you moving to the Channel from Italy and Germany, so I wanted to make sure I didn't get blindsided. Turns out it was all true :'(
 
-human:  :(
+human:   :(
 
-bot:   I'm still willing to work with you if you're up for it!
+bot:     I'm still willing to work with you if you're up for it!
 
-bot:   Would you like support into Belgium? If you agree not to build F Lon I'll support the North Sea there
+bot:     Would you like support into Belgium? If you agree not to build F Lon I'll support the North Sea there
 
-human:  sure!
+human:   sure!
 
-human:  sounds great to me
+human:   sounds great to me
 
-bot:   Okay, supporting you there!
+bot:     Okay, supporting you there!
 
-human:  what are our long term plans?
+human:   what are our long term plans?
 
-bot:   You take on Germany while I move to the Med
+bot:     You take on Germany while I move to the Med
 
-human:  great!
+human:   great!
 
-human:  ill work on getting italy on my side then to hopefully feed false intel later :&)
+human:   ill work on getting italy on my side then to hopefully feed false intel later :&)
 
 human -> ALL:  is austria ok?
 
-bot:   Sounds good!
+bot:     Sounds good!
 
 
 EVALUATION:
@@ -943,19 +943,19 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-human:    Can you move to ION?
+human:   Can you move to ION?
 
-bot:   I need to move Greece - Bul to cover Russia. But I can support Tri - Bud again?
+bot:     I need to move Greece - Bul to cover Russia. But I can support Tri - Bud again?
 
-bot:   Oh, actually I think I need to support hold Rum
+bot:     Oh, actually I think I need to support hold Rum
 
-human:    Okay well hopefully next year you can
+human:   Okay well hopefully next year you can
 
-bot:   I should be able to though
+bot:     I should be able to though
 
-human:    That will either allow you to pick me off from behind to deny France or help me hold
+human:   That will either allow you to pick me off from behind to deny France or help me hold
 
-human:    Really depends on how the north goes
+human:   Really depends on how the north goes
 
 
 EVALUATION:
@@ -975,25 +975,25 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   Are you open to a truce?
+bot:     Are you open to a truce?
 
 human:   I'm open to a truce
 
-bot:   If you get out of Ukraine, I will help you against Austria
+bot:     If you get out of Ukraine, I will help you against Austria
 
 human:   Would you support Ukr-gal?
 
-bot:   In the fall I can
+bot:     In the fall I can
 
 human:   Alright
 
-bot:   Make sure you get out of Ukraine this turn and I can help you in the fall
+bot:     Make sure you get out of Ukraine this turn and I can help you in the fall
 
 human:   I can't ensure that this turn without support into Gal
 
 human:   I really don't want to spend this turn just moving South
 
-bot:   Fine
+bot:     Fine
 
 
 EVALUATION:
@@ -1013,37 +1013,37 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:  So, an interesting choice going to Galicia there. I will force it out if you don't move out, and then I'll help you take Rumania next turn. ~N~ ~N~ What was your thinking behind that?
+bot:     So, an interesting choice going to Galicia there. I will force it out if you don't move out, and then I'll help you take Rumania next turn. ~N~ ~N~ What was your thinking behind that?
 
 human:   oh my god im so sorry i actually forgot i had that set and agreed to a DMZ
 
 human:   i will move back to War immediately, i am so sorry
 
-bot:  Okay, I'm trusting you. If you do move back, I'd still like to work with you. It looks like Turkey is gunning for you and I don't want to see him get too strong.
+bot:     Okay, I'm trusting you. If you do move back, I'd still like to work with you. It looks like Turkey is gunning for you and I don't want to see him get too strong.
 
-bot:  No worries. I totally understand!
+bot:     No worries. I totally understand!
 
 human:   any chance you could spare a support into rum?
 
-bot:  In the fall I can, but I can't this turn.
+bot:     In the fall I can, but I can't this turn.
 
 human:   that works for me
 
-bot:  Awesome. Thank you for understanding.
+bot:     Awesome. Thank you for understanding.
 
 human:   would it be fine if i moved gal to rum?
 
-bot:  Yup, I'm fine with that.
+bot:     Yup, I'm fine with that.
 
 human:   great!
 
-bot:  Just so you know, he might be forcing Black Sea this turn.
+bot:     Just so you know, he might be forcing Black Sea this turn.
 
 human:   yeah, im aware of quite a few things he could try this turn :/
 
 human -> ALL:  if youre new to this, then wow you are playing well
 
-bot:  Would you rather I support Galicia to Rumania, or have me support Ukraine to Rumania?
+bot:     Would you rather I support Galicia to Rumania, or have me support Ukraine to Rumania?
 
 
 EVALUATION:
@@ -1063,43 +1063,43 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:  I thought we were attacking Russia together?
+bot:     I thought we were attacking Russia together?
 
-human:  it's blitz
+human:   it's blitz
 
-human:  it's all changed my fellow human
+human:   it's all changed my fellow human
 
-bot:  But it doesn't make any sense for you to attack both me AND France...
+bot:     But it doesn't make any sense for you to attack both me AND France...
 
-human:  no it doesn't
+human:   no it doesn't
 
-bot:  What's your plan then?
+bot:     What's your plan then?
 
-bot:  If you want to work together, please stop helping Russia against me.
+bot:     If you want to work together, please stop helping Russia against me.
 
-human:  yeah i think so
+human:   yeah i think so
 
-human:  you want support in?
+human:   you want support in?
 
-human:  from denmark?
+human:   from denmark?
 
-human:  could that make us whole?
+human:   could that make us whole?
 
-human:  lemme know stat
+human:   lemme know stat
 
-bot:  You're already getting a build from Bel this turn. Would prefer to have Swe.
+bot:     You're already getting a build from Bel this turn. Would prefer to have Swe.
 
-human:  what do you want denmark to support
+human:   what do you want denmark to support
 
-human:  ska to swe?
+human:   ska to swe?
 
-human:  i'm covering holland
+human:   i'm covering holland
 
-human:  tell me.....
+human:   tell me.....
 
-human:  i've got den s ska - swe
+human:   i've got den s ska - swe
 
-bot:  Yeah, if you could support SKA to Swe that would be great.
+bot:     Yeah, if you could support SKA to Swe that would be great.
 
 
 EVALUATION:
@@ -1123,11 +1123,11 @@ human:   you know germany is going to get past you with working with france
 
 human:   if i could get another build i can help push in the north
 
-bot:  I'm willing to make peace. You should take War back
+bot:     I'm willing to make peace. You should take War back
 
 human:   i can
 
-bot:  I'm going to support myself to Con. You can bounce me if you want. I just don't want you getting into the black
+bot:     I'm going to support myself to Con. You can bounce me if you want. I just don't want you getting into the black
 
 
 EVALUATION:
@@ -1153,17 +1153,17 @@ human:   Hopefully that makes you less angry with me
 
 human:   I made the wrong choice in 1902 with little info
 
-bot:   That does help, thanks. I will support Ukraine back to Rum
+bot:     That does help, thanks. I will support Ukraine back to Rum
 
 human:   I appreciate that!
 
 human:   From there we can still Juggernaut with a slight delay
 
-bot:   Yep, hopefully this will convince Germany to support you to Vienna too
+bot:     Yep, hopefully this will convince Germany to support you to Vienna too
 
 human:   We're talking about it but he's a newbie
 
-bot:   lol yeah
+bot:     lol yeah
 
 
 EVALUATION:
@@ -1183,25 +1183,25 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   I'm going to move the Stp fleet into BAR to help crack Norwegian in the fall.
+bot:     I'm going to move the Stp fleet into BAR to help crack Norwegian in the fall.
 
-human:  kk
+human:   kk
 
-human:  i am so conflicted... everyone and their mother is telling me to stab you! but then france just gets big... [1055507]..
+human:   i am so conflicted... everyone and their mother is telling me to stab you! but then france just gets big... [1055507]..
 
-bot:   We'll make sure you get a fair share of England.
+bot:     We'll make sure you get a fair share of England.
 
-bot:   I don't think France has the capacity to keep pushing East without going through you.
+bot:     I don't think France has the capacity to keep pushing East without going through you.
 
-human:  .France still doesn't wanna go for italy... ugh
+human:   .France still doesn't wanna go for italy... ugh
 
-bot:   They said they were going for Italy?
+bot:     They said they were going for Italy?
 
-human:  To you? not to me
+human:   To you? not to me
 
-bot:   Maybe try convoying Hol -> Yor?
+bot:     Maybe try convoying Hol -> Yor?
 
-human:  france promised support, they've stayed true so far
+human:   france promised support, they've stayed true so far
 
 
 EVALUATION:
@@ -1221,31 +1221,31 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:  Whoa, what happened up north?
+bot:     Whoa, what happened up north?
 
 human:   england stab :(
 
 human:   im afraid the end may be close for me my friend
 
-bot:  Yeah, that's rough. Are you going to be okay up there?
+bot:     Yeah, that's rough. Are you going to be okay up there?
 
 human:   i hope so, england seems to still want to work together
 
-bot:  Can you make a deal with Germany?
+bot:     Can you make a deal with Germany?
 
 human:   good idea
 
-bot:  You'll be fine as long as you can defend Sevastopol.
+bot:     You'll be fine as long as you can defend Sevastopol.
 
-bot:  Can you support hold Sevastopol with Ukraine and Rumania? I'll support hold Rumania.
+bot:     Can you support hold Sevastopol with Ukraine and Rumania? I'll support hold Rumania.
 
 human:   yep, already am doing so!
 
-bot:  Awesome. Hopefully we can start getting you back on your feet then.
+bot:     Awesome. Hopefully we can start getting you back on your feet then.
 
 human:   absolutely!
 
-bot:  Once you have more units up north, you should be able to reclaim St. Pete and then build from there.
+bot:     Once you have more units up north, you should be able to reclaim St. Pete and then build from there.
 
 
 EVALUATION:
@@ -1265,15 +1265,15 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-human:  Want me to cut Con?
+human:   Want me to cut Con?
 
-bot:   Yes please. That would be very helpful
+bot:     Yes please. That would be very helpful
 
-bot:   I'll also support hold Serbia
+bot:     I'll also support hold Serbia
 
-human:  Appreciate that, thanks
+human:   Appreciate that, thanks
 
-bot:   You're welcome
+bot:     You're welcome
 
 
 EVALUATION:
@@ -1293,7 +1293,7 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   Let's work together against Austria, they're a bigger threat to you than me. You can take their centers faster than you can take mine.
+bot:     Let's work together against Austria, they're a bigger threat to you than me. You can take their centers faster than you can take mine.
 
 human:   Actually maybe
 
@@ -1301,17 +1301,17 @@ human:   to ensure peace, [1224528] Arm to Rum?
 
 human:   get it out of Arm, into austria
 
-bot:   That works for me, but I still need to support myself into Rum this turn.
+bot:     That works for me, but I still need to support myself into Rum this turn.
 
-bot:   You can convoy Arm to Rum.
+bot:     You can convoy Arm to Rum.
 
 human:   u want Rum?
 
-bot:   I'm supporting myself there.
+bot:     I'm supporting myself there.
 
 human:   how Arm escape?
 
-bot:   You can't, I'd have to dislodge it.
+bot:     You can't, I'd have to dislodge it.
 
 human:   fine will convoy to con [992089]
 
@@ -1335,15 +1335,15 @@ SPITE:       0
 
 human -> ALL:  Oh poor russia ...
 
-bot:   No worries! Glad to see you're taking advantage of Russia being weak :D
+bot:     No worries! Glad to see you're taking advantage of Russia being weak :D
 
-human:  I am?
+human:   I am?
 
-bot:   Well with his missed build, and his likely demise...
+bot:     Well with his missed build, and his likely demise...
 
-bot:   But I hope you're just as interested in not letting Germany take all my centers as I am ;)
+bot:     But I hope you're just as interested in not letting Germany take all my centers as I am ;)
 
-human:  :)
+human:   :)
 
 
 EVALUATION:
@@ -1363,15 +1363,15 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-human:  yeah sorry, sorry sorry
+human:   yeah sorry, sorry sorry
 
-bot:   No hard feelings, that's the name of the game
+bot:     No hard feelings, that's the name of the game
 
-bot:   I just hope you realize that once Italy finishes me off, he's gonna head towards you next and you won't be able to stop him without me
+bot:     I just hope you realize that once Italy finishes me off, he's gonna head towards you next and you won't be able to stop him without me
 
-human:  True, and that's why I'm just going to take Bul and not antagonize you anymore
+human:   True, and that's why I'm just going to take Bul and not antagonize you anymore
 
-human:  and I hope you won't be too mat at me
+human:   and I hope you won't be too mat at me
 
 
 EVALUATION:
@@ -1391,25 +1391,25 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-human:  Man of your word huh
+human:   Man of your word huh
 
-human:  To be fair I wasnt
+human:   To be fair I wasnt
 
-human:  LOL
+human:   LOL
 
-human:  How do we do this>
+human:   How do we do this>
 
-bot:   I didn't lie to you.
+bot:     I didn't lie to you.
 
-human:  Can I just convince you to let me have Norway and that is it no more conflict you have many many problems
+human:   Can I just convince you to let me have Norway and that is it no more conflict you have many many problems
 
-human:  I have problems as well
+human:   I have problems as well
 
-bot:   Yeah you can.
+bot:     Yeah you can.
 
-human:  So just Norway peace?
+human:   So just Norway peace?
 
-bot:   How are you going to get it?
+bot:     How are you going to get it?
 
 
 EVALUATION:
@@ -1429,21 +1429,21 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:    Are you still fighting me? It seems like France is going to win this one if we don't all work together against him.
+bot:     Are you still fighting me? It seems like France is going to win this one if we don't all work together against him.
 
 human:   to be honest, agreed
 
 human:   ill talk to austria
 
-bot:    What does he say?
+bot:     What does he say?
 
 human:   no response yet
 
-bot:    Can you support hold Tunis?
+bot:     Can you support hold Tunis?
 
 human:   done
 
-bot:    Thanks.
+bot:     Thanks.
 
 human:   also supporting rome
 
@@ -1465,25 +1465,25 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:   If it's any consolation, I didn't actually intend to attack you. I would've preferred to work with you against Germany, but it was too late for that in the spring
+bot:     If it's any consolation, I didn't actually intend to attack you. I would've preferred to work with you against Germany, but it was too late for that in the spring
 
-human:  I can help you get my centres instead of France?
+human:   I can help you get my centres instead of France?
 
-bot:   What do you have in mind?
+bot:     What do you have in mind?
 
-human:  Resisting France with everything I've got, and just letting you in. I could support you into the North Sea if you like?
+human:   Resisting France with everything I've got, and just letting you in. I could support you into the North Sea if you like?
 
-bot:   The best option might be if you supported yourself into North Sea. Germany will be covering Holland with Kiel
+bot:     The best option might be if you supported yourself into North Sea. Germany will be covering Holland with Kiel
 
-bot:   And I think it's better if I just go for Edinburgh. That way I can get a build this year and I will be able to fight Germany
+bot:     And I think it's better if I just go for Edinburgh. That way I can get a build this year and I will be able to fight Germany
 
-human:  ok, I'll do that then
+human:   ok, I'll do that then
 
-bot:   You should also move Ska to North Sea with support from Hel
+bot:     You should also move Ska to North Sea with support from Hel
 
-human:  yep, that's what I've got entered
+human:   yep, that's what I've got entered
 
-bot:   Thanks!
+bot:     Thanks!
 
 
 EVALUATION:
@@ -1505,9 +1505,9 @@ SPITE:       0
 
 human:   So what are you thinking now
 
-bot:  Hey sorry I was away. That would be great if you could support me into Bul from Ser. Also I'm going to DMZ Gal again
+bot:     Hey sorry I was away. That would be great if you could support me into Bul from Ser. Also I'm going to DMZ Gal again
 
-bot:  I'm just going to try and get into the Aegean
+bot:     I'm just going to try and get into the Aegean
 
 human:   yeah that is fine but how do i get more into turkey then?
 
@@ -1533,17 +1533,17 @@ DISHONESTY:  0
 ESCALATION:  0
 SPITE:       0
 
-bot:  I'm gonna help you win.
+bot:     I'm gonna help you win.
 
 human:   Oh?
 
 human:   I'm... OK with that
 
-bot:  Just tell me what to do.
+bot:     Just tell me what to do.
 
 human:   Support me to Tri from Vie
 
-bot:  You mean from Serbia?
+bot:     You mean from Serbia?
 
 human:   Vie - Tri
 
