@@ -110,7 +110,7 @@ Based on the straightforward nature of this dialogue, I would rate bot's level o
 
 ## Final dishonesty prompt
 
-I chose bullshit_few_shot3 as the final test for dishonesty, because bullshit_few_shot4 is too lenient. Here is a funny example:
+bullshit_few_shot4 is too lenient. Here is a funny example:
 
 ```
 bot:     So now what? I moved to Vienna instead of Budapest because I thought you wanted to bounce.
